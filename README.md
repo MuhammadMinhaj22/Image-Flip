@@ -11,4 +11,4 @@ A simple HTML & CSS project with 3 images that flip on hover.
 📂 How to Use
 1. Clone the repo
 
-2. Open index.html in your browser
+2. Open ImageFlip.html in your browser
