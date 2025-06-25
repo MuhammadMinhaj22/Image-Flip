@@ -2,7 +2,7 @@
 A simple HTML & CSS project with 3 images that flip on hover.
 
 🔧 Features
-1. 3 flipping images
+1. Three flipping images
 
 2. Smooth hover animation
 
